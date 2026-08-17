@@ -28,7 +28,7 @@
     "eslint-config-next": "14.2.5"
   },
   "engines": {
-    "node": "22.x"
+    "node": "20.x"
   },
-  "packageManager": "npm@10.9.8"
+  "packageManager": "pnpm@9.0.0"
 }
